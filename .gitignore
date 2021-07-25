@@ -176,3 +176,6 @@ tags
 # Ignore all local history of files
 .history
 .ionide
+
+### idea ###
+.idea
